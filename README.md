@@ -45,8 +45,9 @@ Make sure the database name matches the SQL file name exactly.
 You can include this only if your system has login credentials
 
 Admin Login:
-Email: admin@example.com
-Password: 123456
+username: STUDENT495
+Password: salam123
+
 🛠️ Features
 Student management
 Subject selection and testing system
